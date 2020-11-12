@@ -57,7 +57,7 @@ Architecture)**
 
 <p align="center">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/merlin-scheurer/"
+    href="https://www.linkedin.com/in/merlin-scheurer/"
     target="blank"
     ><img
       align="center"
